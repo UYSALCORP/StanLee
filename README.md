@@ -1,3 +1,6 @@
+## Expected Outcome
+![Project  Snapshot](./images/StanLee.png)
+
 # Objective
 
 
