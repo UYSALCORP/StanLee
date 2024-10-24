@@ -36,13 +36,16 @@ Build a Website that is functionally similar to this: [Stanlee Web Page](https:/
 
 - Step 3: Create Stanlee Web Page
 --------------------------------------------------------------
-    Part-1 HTML Structure
-    - Creat structure of the HTML5
-    - Give name of your project (title)
-    - Create the main structure of the container (div id="container")
----------------------------------------------------------------
-    Part-2 CSS Structure 
-    - Set a background and define font-color="white" - Set container background color and margin - Define "title" and "description" color-size-padding etc...
+   >>Part-1 HTML Structure
+
+	- Creat structure of the HTML5
+	- Give name of your project (title)
+	- Create the main structure of the container (div id="container")
+
+>>Part-2 CSS Structure
+	- Set a background and define font-color="white"
+	- Set container background color and margin
+	- Define "title" and "description" color-size-padding etc...
 --------------------------------------------------------------
 
 - Step 4: Push your application into your own public repo on Github
@@ -55,4 +58,4 @@ Build a Website that is functionally similar to this: [Stanlee Web Page](https:/
 ## Resources
 - [Screen Shot](https://github.com/clarusway/clarusway-fs-tr-18-frontend-m1/blob/main/html-css/coding-challenges/01-Stanlee-Web-Page/img/StanLee.png)
 
-                                              ⌛ Happy Coding ✍
+<p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>    
