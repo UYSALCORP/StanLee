@@ -1,5 +1,5 @@
 ## Expected Outcome
-![Project  Snapshot](./images/StanLee.png)
+![Project  Snapshot](./images/outcome.png)
 
 # Objective
 
