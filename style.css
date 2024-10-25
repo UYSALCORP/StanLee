@@ -35,7 +35,7 @@ span {
     margin: 12px 0px;
 }
 .box {
-    background-image:url(stan-lee.jpg);
+    background-image:url(./images/stan-lee.jpg);
     background-position: center;
     background-size: cover;
     margin: auto;
